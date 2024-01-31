@@ -1,13 +1,15 @@
 # Radix Icons Svelte
 
-A svelte wrapper for a set of 15×15 icons designed by the [Modulz](https://modulz.app) team.
+A svelte wrapper for a set of 15×15 icons designed by the [Modulz](https://modulz.app) team, enhanced with SVGO.
+
+This is a fork from https://github.com/Brisklemonade/radix-icons-svelte to fix the missing exports condition, and add some optimisations.
 
 ## Installation
 
 Run the following command:
 
 ```bash
-npm i radix-icons-svelte
+npm i radix-icons-svelte-enhanced
 ```
 
 ## Documentation
@@ -33,7 +35,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License
 
-## Contact
+## Credit
 
 Twitter - [Brisklemonaid](https://twitter.com/brisklemonaid)
 
